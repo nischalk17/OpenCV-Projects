@@ -1,0 +1,14 @@
+# Ignore Python environments
+.venv310/
+venv/
+env/
+
+# Byte-compiled files
+__pycache__/
+
+# PyCharm settings
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
